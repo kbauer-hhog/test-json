@@ -1,45 +1,51 @@
 {
 	"articles": [{
-			"author": {
-				"value": "Moody's Investors Service 1"
-			},
-			"content": {
-				"value": "<p>Over the past 20 years, 659 Moody's-rated nonfi…-quearter have returned to investment grade.</p>↵"
-			},
-			"date_published": {
-				"value": "2019-11-13T00:00:00Z"
-			},
-			"title": {
-				"value": "Why fallen angels fall: An examination of corporate fallen angels"
-			}
+			"fields": {
+                "author": {
+                    "value": "Moody's Investors Service 1"
+                },
+                "content": {
+                    "value": "<p>Over the past 20 years, 659 Moody's-rated nonfi…-quearter have returned to investment grade.</p>↵"
+                },
+                "date_published": {
+                    "value": "2019-11-13T00:00:00Z"
+                },
+                "title": {
+                    "value": "Why fallen angels fall: An examination of corporate fallen angels"
+                }
+            }
 		},
 		{
-			"author": {
-				"value": "Moody's Investors Service 2"
-			},
-			"content": {
-				"value": "<p>Over the past 20 years, 659 Moody's-rated nonfi…-quearter have returned to investment grade.</p>↵"
-			},
-			"date_published": {
-				"value": "2019-11-13T00:00:00Z"
-			},
-			"title": {
-				"value": "Why fallen angels fall: An examination of corporate fallen angels"
-			}
+            "fields": {
+                "author": {
+                    "value": "Moody's Investors Service 2"
+                },
+                "content": {
+                    "value": "<p>Over the past 20 years, 659 Moody's-rated nonfi…-quearter have returned to investment grade.</p>↵"
+                },
+                "date_published": {
+                    "value": "2019-11-13T00:00:00Z"
+                },
+                "title": {
+                    "value": "Why fallen angels fall: An examination of corporate fallen angels"
+                }
+            }
 		},
 		{
-			"author": {
-				"value": "Moody's Investors Service 3"
-			},
-			"content": {
-				"value": "<p>Over the past 20 years, 659 Moody's-rated nonfi…-quearter have returned to investment grade.</p>↵"
-			},
-			"date_published": {
-				"value": "2019-11-13T00:00:00Z"
-			},
-			"title": {
-				"value": "Why fallen angels fall: An examination of corporate fallen angels"
-			}
+            "fields": {
+                "author": {
+                    "value": "Moody's Investors Service 3"
+                },
+                "content": {
+                    "value": "<p>Over the past 20 years, 659 Moody's-rated nonfi…-quearter have returned to investment grade.</p>↵"
+                },
+                "date_published": {
+                    "value": "2019-11-13T00:00:00Z"
+                },
+                "title": {
+                    "value": "Why fallen angels fall: An examination of corporate fallen angels"
+                }
+            }
 		}
 	]
 }
